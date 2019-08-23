@@ -1,0 +1,98 @@
+Global Parameters
+num_folds:	10
+num_features:	-1
+shuffle_on_split:	False
+seed:	287462
+
+
+Logistic Regression
+accuracy:	mean=0.780	std=0.030	range=[0.707,0.818]
+f1:	mean=0.640	std=0.040	range=[0.566,0.703]
+sensitivity:	mean=0.768	std=0.049	range=[0.703,0.868]
+specificity:	mean=0.784	std=0.035	range=[0.691,0.809]
+precision:	mean=0.549	std=0.041	range=[0.452,0.604]
+ROC-AUC:	mean=0.854	std=0.026	range=[0.802,0.902]
+avg_precision:	mean=0.707	std=0.047	range=[0.585,0.760]
+npv:	mean=0.908	std=0.018	range=[0.889,0.946]
+
+
+SVM (RBF)
+accuracy:	mean=0.796	std=0.030	range=[0.748,0.851]
+f1:	mean=0.651	std=0.044	range=[0.602,0.738]
+sensitivity:	mean=0.749	std=0.052	range=[0.676,0.842]
+specificity:	mean=0.812	std=0.035	range=[0.745,0.864]
+precision:	mean=0.578	std=0.050	range=[0.500,0.674]
+ROC-AUC:	mean=0.867	std=0.025	range=[0.826,0.921]
+avg_precision:	mean=0.730	std=0.049	range=[0.637,0.781]
+npv:	mean=0.905	std=0.017	range=[0.882,0.938]
+
+
+Naive Bayes
+accuracy:	mean=0.809	std=0.009	range=[0.796,0.824]
+f1:	mean=0.527	std=0.048	range=[0.408,0.594]
+sensitivity:	mean=0.424	std=0.066	range=[0.270,0.526]
+specificity:	mean=0.941	std=0.022	range=[0.900,0.982]
+precision:	mean=0.720	std=0.058	range=[0.640,0.833]
+ROC-AUC:	mean=0.846	std=0.024	range=[0.809,0.896]
+avg_precision:	mean=0.645	std=0.043	range=[0.555,0.699]
+npv:	mean=0.828	std=0.013	range=[0.800,0.846]
+
+
+Gaussian Process
+accuracy:	mean=0.799	std=0.021	range=[0.764,0.824]
+f1:	mean=0.462	std=0.060	range=[0.346,0.536]
+sensitivity:	mean=0.341	std=0.052	range=[0.243,0.432]
+specificity:	mean=0.955	std=0.021	range=[0.909,0.982]
+precision:	mean=0.725	std=0.098	range=[0.565,0.875]
+ROC-AUC:	mean=0.790	std=0.031	range=[0.749,0.832]
+avg_precision:	mean=0.603	std=0.083	range=[0.486,0.711]
+npv:	mean=0.810	std=0.013	range=[0.788,0.831]
+
+
+Random Forest
+accuracy:	mean=0.806	std=0.028	range=[0.776,0.851]
+f1:	mean=0.622	std=0.062	range=[0.543,0.711]
+sensitivity:	mean=0.634	std=0.086	range=[0.514,0.730]
+specificity:	mean=0.865	std=0.032	range=[0.791,0.900]
+precision:	mean=0.616	std=0.058	range=[0.540,0.711]
+ROC-AUC:	mean=0.863	std=0.021	range=[0.821,0.902]
+avg_precision:	mean=0.707	std=0.059	range=[0.612,0.773]
+npv:	mean=0.875	std=0.024	range=[0.842,0.900]
+Global Parameters
+num_folds:	10
+num_features:	-1
+shuffle_on_split:	False
+seed:	287462
+
+
+Logistic Regression
+accuracy:	mean=0.780	std=0.030	range=[0.707,0.818]
+f1:	mean=0.640	std=0.040	range=[0.566,0.703]
+sensitivity:	mean=0.768	std=0.049	range=[0.703,0.868]
+specificity:	mean=0.784	std=0.035	range=[0.691,0.809]
+precision:	mean=0.549	std=0.041	range=[0.452,0.604]
+ROC-AUC:	mean=0.854	std=0.026	range=[0.802,0.902]
+avg_precision:	mean=0.707	std=0.047	range=[0.585,0.760]
+npv:	mean=0.908	std=0.018	range=[0.889,0.946]
+
+
+KNN
+accuracy:	mean=0.806	std=0.012	range=[0.789,0.831]
+f1:	mean=0.444	std=0.047	range=[0.375,0.526]
+sensitivity:	mean=0.307	std=0.046	range=[0.237,0.405]
+specificity:	mean=0.976	std=0.015	range=[0.955,1.000]
+precision:	mean=0.826	std=0.088	range=[0.714,1.000]
+ROC-AUC:	mean=0.793	std=0.034	range=[0.743,0.840]
+avg_precision:	mean=0.650	std=0.048	range=[0.562,0.713]
+npv:	mean=0.805	std=0.010	range=[0.790,0.827]
+
+
+Gradient Boost
+accuracy:	mean=0.827	std=0.024	range=[0.789,0.865]
+f1:	mean=0.604	std=0.061	range=[0.516,0.706]
+sensitivity:	mean=0.523	std=0.079	range=[0.421,0.676]
+specificity:	mean=0.931	std=0.028	range=[0.873,0.973]
+precision:	mean=0.727	std=0.081	range=[0.607,0.864]
+ROC-AUC:	mean=0.870	std=0.025	range=[0.815,0.903]
+avg_precision:	mean=0.728	std=0.062	range=[0.613,0.818]
+npv:	mean=0.852	std=0.021	range=[0.824,0.889]
