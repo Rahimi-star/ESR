@@ -1,6 +1,6 @@
 # Early-sepsis-recognition
 
-this Code is based on files provided by this article:
+This Code is based on files provided by this article:
 
 Machine learning models for early sepsis recognition in the neonatal intensive care unit using readily available electronic health record data
 By Aaron J. Masino et. al
